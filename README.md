@@ -1,4 +1,6 @@
-<a href="https://handle.stage.datacite.org/10.5072/zenodo.276963"><img src="https://sandbox.zenodo.org/badge/767374748.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.15831121">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15831121.svg" alt="DOI">
+</a>
 
 # MATLAB-reference-material-for-Custom-RL-model-and-training
 This repository consists of the files of the developed model in MATLAB utilized in the study "OPTIMIZING AIR TRAFFIC CONTROL: LEVERAGING MARKOV DECISION PROCESS AND REINFORCEMENT LEARNING WITH DEEP Q-NETWORK AND CONVOLUTION NEURAL NETWORK"
